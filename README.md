@@ -1,4 +1,4 @@
-#GitHub repository used for the Git tutorial.
+# GitHub repository used for the Git tutorial.
 ## Blink
 This repository has an example file to blink the LED on an Arduino board.
 
